@@ -1,0 +1,4 @@
+- betaal methode en pagina.
+- informatie tab
+- opmaak nav en evt hoofdpagina
+- info op hoofdpagina of alleen in de aparte tab? of helemaal geen aparte tab?
