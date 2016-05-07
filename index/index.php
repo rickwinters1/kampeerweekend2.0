@@ -62,7 +62,7 @@
           <img class="first-slide" src="images/IMAG0960.jpg" alt="First slide">
           <div class="container">
             <div class="carousel-caption">
-              <h1>Inschrijving FDKW 2016</h1>
+              <p class="carousel_titel">Inschrijven FDKW</p>
               <p>Schrijf je nu in voor het kampeer weekend 2016!</p>
               <p><a class="btn btn-lg btn-primary" href="inschrijven2.php" role="button">Inschrijven</a></p>
             </div>
@@ -72,7 +72,7 @@
           <img class="second-slide" src="images/IMAG1013.jpg" alt="Second slide">
           <div class="container">
             <div class="carousel-caption">
-              <h1>Foto Album 2015</h1>
+              <p class="carousel_titel">Foto Album 2015</p>
               <p>Bekijk hier de foto's van het vorige kampeerweekend!</p>
               <p><a class="btn btn-lg btn-primary" href="album/album.html" role="button">Foto album</a></p>
             </div>
@@ -82,7 +82,7 @@
           <img class="third-slide" src="images/IMAG0962.jpg" alt="Third slide">
           <div class="container">
             <div class="carousel-caption">
-              <h1>Meer informatie.</h1>
+              <p class="carousel_titel">Meer informatie.</p>
               <p>Hier vindt je meer informatie over het kampeer weekend!</p>
               <p><a class="btn btn-lg btn-primary" href="#info" role="button">info</a></p>
             </div>
@@ -111,7 +111,7 @@
       <div id="info"  class="row featurette">
         <div class="col-md-7 col-md-push-5">
           <h2 class="featurette-heading">Het Kampeer Weekend 2016!</h2>
-          <p class="lead">Ook dit jaar is er weer het jaarlijkse Kampeer Weekend van Flevo Delta! Op deze website kunt u <a href="album/album.html">foto's</a> van vorig jaar bekijken en informatie opdoen over het Kampeer Weekend. Ook kunt u<a href="inschrijven2.php"> hier </a>het inschrijf formulier downloaden.</p>
+          <p class="lead">Ook dit jaar is er weer het jaarlijkse Kampeer Weekend van Flevo Delta! Op deze website kunt u <a href="album/album.html">foto's</a> van vorig jaar bekijken en informatie opdoen over het Kampeer Weekend. Ook kunt u <a href="inschrijven2.php">hier</a> het inschrijf formulier downloaden.</p>
         </div>
         <div class="col-md-5 col-md-pull-7">
           <img class="featurette-image img-responsive center-block" src="images/icon-1176.png" alt="Info">
@@ -135,7 +135,7 @@
       <div class="row featurette">
         <div class="col-md-7 col-md-push-5">
           <h2 class="featurette-heading">Vrijwilligers nodig! </h2>
-          <p class="lead">Zoals elk jaar zijn er een hele boel vrijwilligers nodig om het kampeer weekend door te kunnen laten gaan. Zo hebben we mensen nodig voor de volgende taken; bouwer, rijders voor kinderen of bagage, begeleiders, nachtwakers, fotografen, keukenhulp en natuurlijk EHBO'ers! U kunt zich <a href="inschrijven.php">hier </a>inschrijven als vrijwilliger.</p>
+          <p class="lead">Zoals elk jaar zijn er een hele boel vrijwilligers nodig om het kampeer weekend door te kunnen laten gaan. Zo hebben we mensen nodig voor de volgende taken; bouwer, rijders voor kinderen of bagage, begeleiders, nachtwakers, fotografen, keukenhulp en natuurlijk EHBO'ers! U kunt zich <a href="inschrijven2.php">hier</a> inschrijven als vrijwilliger.</p>
         </div>
         <div class="col-md-5 col-md-pull-7">
           <img class="featurette-image img-responsive center img-circle" src="images/fdkw 2015  (23).jpg" alt="Vrijwilliger in actie">

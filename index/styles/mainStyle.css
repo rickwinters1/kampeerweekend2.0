@@ -96,33 +96,34 @@ body {
     color: #5c677c;
     background-color: #c9c9c9;
   }
+  .carousel_titel{
+    font-size: 25px !important;
+  }
 }
 
-/*
-/* Carousel base class 
+ .carousel_titel{
+    font-size: 40px;
+  }
+
+
 .carousel {
-  height: 700px;
   margin-bottom: 60px;
 
 }
-/* Since positioning the image, we need to help out the caption 
+
 .carousel-caption {
   z-index: 10;
 }
 
- Declare heights because of positioning of img element 
 .carousel .item {
-  height: 700px;
   background-color: #777;
 }
 .carousel-inner > .item > img {
-  position: absolute;
   top: 0;
   left: 0;
   min-width: 100%;
-  height: 700px;
 }
-*/
+
 
 /* MARKETING CONTENT
 -------------------------------------------------- */
@@ -140,16 +141,7 @@ body {
   margin-left: 10px;
 }
 
-
-/* FORM
--------------------------------------------------- */
-#Form{
-  margin-top: 50px;
-}
-
-/* ALBUM
--------------------------------------------------- */
-#Titel{
-  margin-top: 50px;
+.featurette-image{
+  width: 75%;
 }
 
