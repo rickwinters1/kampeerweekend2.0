@@ -41,8 +41,10 @@
       <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
         <ul class="nav navbar-nav">
           <li><a href="index.php">Home <span class="sr-only">(current)</span></a></li>
-          <li><a href="album/album.html">Foto's</a></li>
+          <li><a href="album.php">Foto's</a></li>
           <li class="active"><a href="inschrijven2.php">Inschrijven</a></li>
+          <li><a href="benodigdheden.php">Benodigdheden</a></li>
+
       </div><!-- /.navbar-collapse -->
     </div><!-- /.container-fluid -->
   </nav>

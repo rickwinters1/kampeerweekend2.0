@@ -34,15 +34,17 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="#">FDKW</a>
+      <a class="navbar-brand" href="index.php">FDKW</a>
     </div>
 
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
         <li class="active"><a href="index.php">Home <span class="sr-only">(current)</span></a></li>
-        <li><a href="album/album.html">Foto's</a></li>
+        <li><a href="album.php">Foto's</a></li>
         <li><a href="inschrijven2.php">Inschrijven</a></li>
+        <li><a href="benodigdheden.php">Benodigdheden</a></li>
+
     </div><!-- /.navbar-collapse -->
   </div><!-- /.container-fluid -->
 </nav>
@@ -123,7 +125,7 @@
       <div class="row featurette">
         <div class="col-md-7">
           <h2 class="featurette-heading">Wat moet je meenemen? </h2>
-          <p class="lead">Het blijft natuurlijk lastig om te zorgen dat je alles bij je hebt, daarom hebben we <a href="benodigheden.php">hier</a> een lijst met basisbenodigheden gemaakt! Belangrijk is dat je een goed lunchpakket meeneemt!</p>
+          <p class="lead">Het blijft natuurlijk lastig om te zorgen dat je alles bij je hebt, daarom hebben we <a href="benodigdheden.php">hier</a> een lijst met basisbenodigheden gemaakt! Belangrijk is dat je een goed lunchpakket meeneemt!</p>
         </div>
         <div class="col-md-5">
           <img class="featurette-image img-responsive center-block img-circle" src="images/tassen2.jpg" alt="Foto van tassen">
