@@ -40,34 +40,9 @@
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
-        <li class="active"><a href="#">Link <span class="sr-only">(current)</span></a></li>
-        <li><a href="#">Link</a></li>
-        <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
-          <ul class="dropdown-menu">
-            <li><a href="#">Action</a></li>
-            <li><a href="#">Another action</a></li>
-            <li><a href="#">Something else here</a></li>
-            <li role="separator" class="divider"></li>
-            <li><a href="#">Separated link</a></li>
-            <li role="separator" class="divider"></li>
-            <li><a href="#">One more separated link</a></li>
-          </ul>
-        </li>
-      </ul>
-      <ul class="nav navbar-nav navbar-right">
-        <li><a href="#">Link</a></li>
-        <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
-          <ul class="dropdown-menu">
-            <li><a href="#">Action</a></li>
-            <li><a href="#">Another action</a></li>
-            <li><a href="#">Something else here</a></li>
-            <li role="separator" class="divider"></li>
-            <li><a href="#">Separated link</a></li>
-          </ul>
-        </li>
-      </ul>
+        <li class="active"><a href="index.php">Home <span class="sr-only">(current)</span></a></li>
+        <li><a href="album/album.html">Foto's</a></li>
+        <li><a href="inschrijven2.php">Inschrijven</a></li>
     </div><!-- /.navbar-collapse -->
   </div><!-- /.container-fluid -->
 </nav>
@@ -89,7 +64,7 @@
             <div class="carousel-caption">
               <h1>Inschrijving FDKW 2016</h1>
               <p>Schrijf je nu in voor het kampeer weekend 2016!</p>
-              <p><a class="btn btn-lg btn-primary" href="inschrijven.php" role="button">Inschrijven</a></p>
+              <p><a class="btn btn-lg btn-primary" href="inschrijven2.php" role="button">Inschrijven</a></p>
             </div>
           </div>
         </div>
@@ -129,30 +104,49 @@
     ================================================== -->
     <!-- Wrap the rest of the page in another container to center all the content. -->
 
-    <div class="container marketing">
+    <!-- START THE FEATURETTES -->
+    <div class="col-md-8 col-md-offset-2">
+      <hr class="featurette-divider">
 
-      <!-- Three columns of text below the carousel -->
-      <div class="row">
-        <div class="col-lg-4">
-          <img class="img-circle" src="images/tassen2.jpg" alt="Niet vergeten!" width="140" height="140">
-          <h2>Niet vergeten!</h2>
-          <p>Vet handige dingen om niet vergeten mee te nemen enzo</p>
-          <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
-        </div><!-- /.col-lg-4 -->
-        <div class="col-lg-4">
-          <img class="img-circle" src="images/icon-1176.png" alt="informatie" width="140" height="140">
-          <h2>Informatie</h2>
-          <p>Het jaarlijkse Flevo Delta Kampeer Weekend komt er weer aan!!! 
-            Dit weekend, vol gezamenlijke sportieve uitdagingen en gezelligheid viert dit jaar zijn 20ste jubileum. Dit jaar houden we het weekend op zaterdag 3 en zondag 4 oktober!</p>
-          <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
-        </div><!-- /.col-lg-4 -->
-        <div class="col-lg-4">
-          <img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
-          <h2>Heading</h2>
-          <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-          <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
-        </div><!-- /.col-lg-4 -->
-      </div><!-- /.row -->
+      <div id="info"  class="row featurette">
+        <div class="col-md-7 col-md-push-5">
+          <h2 class="featurette-heading">Het Kampeer Weekend 2016!</h2>
+          <p class="lead">Ook dit jaar is er weer het jaarlijkse Kampeer Weekend van Flevo Delta! Op deze website kunt u <a href="album/album.html">foto's</a> van vorig jaar bekijken en informatie opdoen over het Kampeer Weekend. Ook kunt u<a href="inschrijven2.php"> hier </a>het inschrijf formulier downloaden.</p>
+        </div>
+        <div class="col-md-5 col-md-pull-7">
+          <img class="featurette-image img-responsive center-block" src="images/icon-1176.png" alt="Info">
+        </div>
+      </div>
+
+      <hr class="featurette-divider">
+
+      <div class="row featurette">
+        <div class="col-md-7">
+          <h2 class="featurette-heading">Wat moet je meenemen? </h2>
+          <p class="lead">Het blijft natuurlijk lastig om te zorgen dat je alles bij je hebt, daarom hebben we <a href="benodigheden.php">hier</a> een lijst met basisbenodigheden gemaakt! Belangrijk is dat je een goed lunchpakket meeneemt!</p>
+        </div>
+        <div class="col-md-5">
+          <img class="featurette-image img-responsive center-block img-circle" src="images/tassen2.jpg" alt="Foto van tassen">
+        </div>
+      </div>
+
+      <hr class="featurette-divider">
+
+      <div class="row featurette">
+        <div class="col-md-7 col-md-push-5">
+          <h2 class="featurette-heading">Vrijwilligers nodig! </h2>
+          <p class="lead">Zoals elk jaar zijn er een hele boel vrijwilligers nodig om het kampeer weekend door te kunnen laten gaan. Zo hebben we mensen nodig voor de volgende taken; bouwer, rijders voor kinderen of bagage, begeleiders, nachtwakers, fotografen, keukenhulp en natuurlijk EHBO'ers! U kunt zich <a href="inschrijven.php">hier </a>inschrijven als vrijwilliger.</p>
+        </div>
+        <div class="col-md-5 col-md-pull-7">
+          <img class="featurette-image img-responsive center img-circle" src="images/fdkw 2015  (23).jpg" alt="Vrijwilliger in actie">
+        </div>
+      </div>
+
+      <hr class="featurette-divider">
+
+      
+
+      <!-- /END THE FEATURETTES -->
 
       <!-- FOOTER -->
       <footer>
@@ -161,7 +155,7 @@
       </footer>
 
     </div><!-- /.container -->
-
+  </div>
 
 
     <!-- Bootstrap core JavaScript
