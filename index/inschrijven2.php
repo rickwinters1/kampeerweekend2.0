@@ -57,7 +57,7 @@
     </div>
     <div class="col-md-8 col-md-offset-2">
       <p>De inschrijving gaat dit jaar wegens omstandigheden door een envelop met daarin het inschrijf geld en een ingevuld inschrijf formulier in te leveren bij het volgende adres: ........</p>
-      <p>Het inschrijf geld bedraagd ook dit jaar weer €12,50.</p>
+      <p>Het inschrijf geld bedraagd ook dit jaar weer €17,50.</p>
       <p>De inschrijf formulieren voor de deelnemers en de vrijwilligers zijn hier onder te downloaden, u kunt hem dan uitprinten en invullen.</p>
       <br>
       

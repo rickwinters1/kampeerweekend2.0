@@ -51,7 +51,7 @@
     <!---Album
     ================================================== -->
     <div id ="Titel" class="col-md-6 col-md-offset-3">
-      <h2>Foto's Flevo Delta Kampeer Weekend 2014</h2>
+      <h2>Foto's van het Flevo Delta Kampeer Weekend 2015</h2>
     </div>
 
     <div id="Flickr_G"></div>
@@ -63,8 +63,7 @@
     </footer>
     
 
-    <script type="text/javascript" src="http://flickrembed.com/embed.js.php?provider=flickr&theme=tiles&layout=responsive&by=album&input=72157646482069637"></script>
-    <!-- Bootstrap core JavaScript
+    <script type="text/javascript" src="http://flickrembed.com/embed.js.php?provider=flickr&theme=tiles&layout=responsive&by=album&input=72157665713201274"></script>    <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
