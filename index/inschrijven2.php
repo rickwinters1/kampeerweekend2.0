@@ -50,31 +50,41 @@
   </nav>
 
   <!-- Inschrijven -->
+  <div class="row">
+    
+    <div class="col-md-3"></div>
 
-  <div class="container">
-    <div class="col-md-6 col-md-offset-3">
-      <h2>Inschrijven Kampeer Weekend 2016</h2>
+    <div class="col-md-6">
+
+      <div class="text-center">
+        <h2>Inschrijven Kampeer Weekend 2016</h2>
+      </div>
+      <div class="text-center">
+        <p>De inschrijving gaat dit jaar wegens omstandigheden door een envelop met daarin het inschrijf geld en een ingevuld inschrijf formulier in te leveren bij het volgende adres: ........</p>
+        <p>Het inschrijf geld bedraagd ook dit jaar weer €17,50.</p>
+        <p>De inschrijf formulieren voor de deelnemers en de vrijwilligers zijn hier onder te downloaden, u kunt hem dan uitprinten en invullen.</p>
+        <br>
+        
+        <p>Inschrijf formulier deelnemers:<p>
+        <p><a class="btn btn-lg btn-primary" href="#" download>Downloaden</a></p>
+        <p>Inschrijf formulier vrijwilligers:<p>
+        <p><a class="btn btn-lg btn-primary" href="#" download>Downloaden</a></p>
+      </div> 
     </div>
-    <div class="col-md-8 col-md-offset-2">
-      <p>De inschrijving gaat dit jaar wegens omstandigheden door een envelop met daarin het inschrijf geld en een ingevuld inschrijf formulier in te leveren bij het volgende adres: ........</p>
-      <p>Het inschrijf geld bedraagd ook dit jaar weer €17,50.</p>
-      <p>De inschrijf formulieren voor de deelnemers en de vrijwilligers zijn hier onder te downloaden, u kunt hem dan uitprinten en invullen.</p>
-      <br>
-      
-      <p>Inschrijf formulier deelnemers:<p>
-      <p><a class="btn btn-lg btn-primary" href="#" download>Downloaden</a></p>
-      <p>Inschrijf formulier vrijwilligers:<p>
-      <p><a class="btn btn-lg btn-primary" href="#" download>Downloaden</a></p>
-    </div> 
+
+    <div class="col-md-3"></div>
+
   </div>
 
-
   <!-- FOOTER -->
-  <footer>
-    <p class="pull-right"><a href="#">Back to top</a></p>
-    <p>&copy; 2016 AV Flevo Delta</p>
-  </footer>
-
+  <div class="row">
+    <div class="col-md-12">
+      <footer>
+        <p class="pull-right"><a href="#">Back to top</a></p>
+        <p>&copy; 2016 AV Flevo Delta</p>
+      </footer>
+    </div>
+  </div>
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->

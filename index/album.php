@@ -7,19 +7,19 @@
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <meta name="description" content="">
     <meta name="author" content="">
-    <link rel="icon" href="../images/favicon.ico">
+    <link rel="icon" href="images/favicon.ico">
 
     <title>Kampeer Weekend 2016</title>
 
    <!-- Bootstrap core CSS -->
-    <link href="../css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/bootstrap.min.css" rel="stylesheet">
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
-    <script src="../js/bootstrap.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
 
-    <link href="../styles/mainStyle.css" rel="stylesheet">
+    <link href="styles/mainStyle.css" rel="stylesheet">
   </head>
 <!-- NAVBAR
 ================================================== -->
@@ -50,18 +50,21 @@
 </nav>
     <!---Album
     ================================================== -->
-    <div id ="Titel" class="col-md-6 col-md-offset-3">
+    <div id ="Titel" class="text-center">
       <h2>Foto's van het Flevo Delta Kampeer Weekend 2015</h2>
     </div>
 
     <div id="Flickr_G"></div>
 
     <!-- FOOTER -->
-    <footer>
-      <p class="pull-right"><a href="#">Back to top</a></p>
-      <p>&copy; 2016 AV Flevo Delta</p>
-    </footer>
-    
+   <div class="row">
+    <div class="col-md-12">
+      <footer>
+        <p class="pull-right"><a href="#">Back to top</a></p>
+        <p>&copy; 2016 AV Flevo Delta</p>
+      </footer>
+    </div>
+  </div>
 
     <script type="text/javascript" src="http://flickrembed.com/embed.js.php?provider=flickr&theme=tiles&layout=responsive&by=album&input=72157665713201274"></script>    <!-- Bootstrap core JavaScript
     ================================================== -->

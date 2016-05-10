@@ -49,6 +49,34 @@
     </div><!-- /.container-fluid -->
   </nav>
 
+
+  <div class="container">
+    <h2 class="text-center">Wat moet er allemaal mee?</h2>
+    <div class="col-md-3"></div>
+    <ul class="list-group col-md-6">
+      <li class="list-group-item">Een goed humeur (natuurlijk).</li>
+      <li class="list-group-item">Goed lunchpakket met drinken (niet te weinig; zware lichamelijke inspanning vraagt om goed eten!!). Je lunchpakket moet je bij je houden zaterdag.</li>
+      <li class="list-group-item">Passende schoenen, ivm met de survival-activiteiten 2 paar (geen rubberlaarzen).</li>
+      <li class="list-group-item">Extra stel kleding en sokken (ook voor zondag ommdat we dan ook nog een "nat" onderdeel hebben).</li>
+      <li class="list-group-item">Zwemkleding en handdoek (zwemkleding vast aantrekken onder de gewone kleren).</li>
+      <li class="list-group-item">Tandenborstel en tandpasta.</li>
+      <li class="list-group-item">Bord, bestek en beker.</li>
+      <li class="list-group-item">Stoel.</li>
+      <li class="list-group-item">Slaapzak en luchtbed (met pomp)/ matrasje. Eventueel een kussen.</li>
+      <li class="list-group-item">Zaklamp</li>
+      <li class="list-group-item">Muggenspul en zonnebrand.</li>
+      <li class="list-group-item">Eventueel medicijnen (indien nodig afgeven bij begeleiders).</li>
+      <li class="list-group-item">Bij slecht weer op komst: regenkleding en een warme trui voor 's avonds.</li>
+      <li class="list-group-item">Alcohol en energydrankjes meenemen is <b>niet</b> toegestaan!</li>
+      <br>
+      <p>We gaan met zo'n 90 man op pad, dus is het zaak alles duidelijk te voorzien van een naam.</p>
+    </ul>
+
+    <div class="col-md-3"></div>
+
+    
+  </div>
+
   <!-- FOOTER -->
   <footer>
     <p class="pull-right"><a href="#">Back to top</a></p>

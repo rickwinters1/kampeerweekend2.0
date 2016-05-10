@@ -75,7 +75,7 @@
             <div class="carousel-caption">
               <p class="carousel_titel">Foto Album 2015</p>
               <p>Bekijk hier de foto's van het vorige kampeerweekend!</p>
-              <p><a class="btn btn-lg btn-primary" href="album/album.html" role="button">Foto album</a></p>
+              <p><a class="btn btn-lg btn-primary" href="album.php" role="button">Foto album</a></p>
             </div>
           </div>
         </div>
@@ -112,7 +112,7 @@
       <div id="info"  class="row featurette">
         <div class="col-md-7 col-md-push-5">
           <h2 class="featurette-heading">Het Kampeer Weekend 2016!</h2>
-          <p class="lead">Ook dit jaar is er weer het jaarlijkse Kampeer Weekend van Flevo Delta! Op deze website kunt u <a href="album/album.html">foto's</a> van vorig jaar bekijken en informatie opdoen over het Kampeer Weekend. Ook kunt u <a href="inschrijven2.php">hier</a> het inschrijf formulier downloaden.</p>
+          <p class="lead">Ook dit jaar is er weer het jaarlijkse Kampeer Weekend van Flevo Delta! Op deze website kunt u <a href="album.php">foto's</a> van vorig jaar bekijken en informatie opdoen over het Kampeer Weekend. Ook kunt u <a href="inschrijven2.php">hier</a> het inschrijf formulier downloaden.</p>
         </div>
         <div class="col-md-5 col-md-pull-7">
           <img class="featurette-image img-responsive center-block" src="images/icon-1176.png" alt="Info">
@@ -150,10 +150,14 @@
       <!-- /END THE FEATURETTES -->
 
       <!-- FOOTER -->
-      <footer>
-        <p class="pull-right"><a href="#">Back to top</a></p>
-        <p>&copy; 2016 AV Flevo Delta</p>
-      </footer>
+      <div class="row">
+        <div class="col-md-12">
+          <footer>
+            <p class="pull-right"><a href="#">Back to top</a></p>
+            <p>&copy; 2016 AV Flevo Delta</p>
+          </footer>
+        </div>
+      </div>
 
     </div><!-- /.container -->
   </div>
