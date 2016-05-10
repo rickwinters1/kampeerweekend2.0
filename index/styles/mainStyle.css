@@ -10,8 +10,8 @@ body {
 
 .navbar-default {
   background-color: #e4e4e4;
-  border-color:  #7b7b7b
-;
+  border-color:  #a8cdff;
+  border-width: 2px;
 }
 .navbar-default .navbar-brand {
   color: #9c9c9c;
