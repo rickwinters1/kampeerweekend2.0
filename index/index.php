@@ -112,7 +112,7 @@
       <div id="info"  class="row featurette">
         <div class="col-md-7 col-md-push-5">
           <h2 class="featurette-heading">Het Kampeer Weekend 2016!</h2>
-          <p class="lead">Ook dit jaar is er weer het jaarlijkse Kampeer Weekend van Flevo Delta! Op deze website kunt u <a href="album.php">foto's</a> van vorig jaar bekijken en informatie opdoen over het Kampeer Weekend. Ook kunt u <a href="inschrijven2.php">hier</a> het inschrijf formulier downloaden.</p>
+          <p class="lead">Het jaarlijkse Flevo Delta Kampeer Weekend komt er weer aan!! Dit jaar vindt het weekend plaats op 9 en 10 juli. Op deze website kunt u <a href="album.php">foto's</a> van vorig jaar bekijken en informatie opdoen over het Kampeer Weekend. Ook kunt u <a href="inschrijven2.php">hier</a> het inschrijf formulier downloaden.</p>
         </div>
         <div class="col-md-5 col-md-pull-7">
           <img class="featurette-image img-responsive center-block" src="images/icon-1176.png" alt="Info">
@@ -135,8 +135,8 @@
 
       <div class="row featurette">
         <div class="col-md-7 col-md-push-5">
-          <h2 class="featurette-heading">Vrijwilligers nodig! </h2>
-          <p class="lead">Zoals elk jaar zijn er een hele boel vrijwilligers nodig om het kampeer weekend door te kunnen laten gaan. Zo hebben we mensen nodig voor de volgende taken; bouwer, rijders voor kinderen of bagage, begeleiders, nachtwakers, fotografen, keukenhulp en natuurlijk EHBO'ers! U kunt zich <a href="inschrijven2.php">hier</a> inschrijven als vrijwilliger.</p>
+          <h2 class="featurette-heading">Vrijwilligers gezocht! </h2>
+          <p class="lead">De commissie is alweer druk bezig met de voorbereidingen voor dit jaar, maar kan dit natuurlijk niet alleen. Wij hebben veel vrijwilligers nodig om dit tot een succes te maken! Dus: Maak je vader, moeder, verzorgers, opa of oma enthousiast en neem ze mee op dit gezellige en sportieve weekend! <a href="inschrijven2.php">Hier</a> kunt u meer informatie vinden over de vrijwilligersfuncties.</p>
         </div>
         <div class="col-md-5 col-md-pull-7">
           <img class="featurette-image img-responsive center img-circle" src="images/fdkw 2015  (23).jpg" alt="Vrijwilliger in actie">

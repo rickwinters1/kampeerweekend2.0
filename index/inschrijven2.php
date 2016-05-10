@@ -60,15 +60,52 @@
         <h2>Inschrijven Kampeer Weekend 2016</h2>
       </div>
       <div class="text-center">
-        <p>De inschrijving gaat dit jaar wegens omstandigheden door een envelop met daarin het inschrijf geld en een ingevuld inschrijf formulier in te leveren bij het volgende adres: ........</p>
-        <p>Het inschrijf geld bedraagd ook dit jaar weer €17,50.</p>
-        <p>De inschrijf formulieren voor de deelnemers en de vrijwilligers zijn hier onder te downloaden, u kunt hem dan uitprinten en invullen.</p>
-        <br>
+        <p>Vanwege de huidige omstandigheden zal de betaling dit jaar niet via automatische incasso verlopen, maar kun je deze contant inleveren in een gesloten envelop, samen met het inschrijfformulier op één van de van de volgende adressen:</p>
+        <div class="col-md-2"></div>
+        <ul class="list-group col-md-8">
+          <li class="list-group-item list-group-item-info">Familie Harleman: Frank 29, Dronten.</li>
+          <li class="list-group-item list-group-item-info">Johan Meijer: Schoenmakersgilde 3, Dronten.</li>
+          <li class="list-group-item list-group-item-info">Mireille Sloos: De Schalm 14, Dronten.</li>
+          <li class="list-group-item list-group-item-info">Linda Schade: <b>AFGEVEN</b> in de kantine aan Linda of Pascal.</li>
+        </ul>
+        <div class="col-md-3"></div>
+        <div class="col-md-12">
+          <p>De kosten van het kamp bedragen €17,50 per jeugdlid. <br>Inschrijven kan <b>tot uiterlijk 30 mei</b> via het invulformulier hier onder.</p>
+          <p><b>Je inschrijving is pas definitief als de betaling binnen is!</b></p>
+          <p>De inschrijf formulieren voor de deelnemers en de vrijwilligers zijn hier onder te downloaden, u kunt hem dan uitprinten en invullen. </p>
+        </div>
+
+        <div class="col-md-12">
+          <div class="col-md-6">
+            <h4><b>Inschrijf formulier deelnemers:</b><h4>
+            <p><a class="btn btn-lg btn-primary" href="#" download>Downloaden</a></p>
+          </div>
+          <div class="col-md-6">
+            <h4><b>Inschrijf formulier vrijwilligers:</b><h4>
+            <p><a class="btn btn-lg btn-primary" href="#" download>Downloaden</a></p>
+          </div>
+        </div>
+
+        <div class="col-md-1"></div>
+        <div class="col-md-10">
+          <br>
+          <h2>Uitleg vrijwilligersfuncties:</h2>
+          <ul class="list-group">
+            <li class="list-group-item list-group-item-info"><h4 class="text-center">Bouwer:</h4>Als bouwer ben je er zaterdag ochtend vroeg om de tenten op te zetten en het parcours op te bouwen.
+              Ook zul je zorg dragen voor de veilgheid van de atleten tijdens de survival. Je blijft 's nachts in het kamp en gaat zondag nieuwe hindernissen opbouwen.</li>
+            <li class="list-group-item list-group-item-info"><h4 class="text-center">Chauffeur:</h4>Zaterdag atleten en bagage naar de locatie brengen en zondag weer ophalen.</li>
+            <li class="list-group-item list-group-item-info"><h4 class="text-center">Keukenhulp:</h4>Zorg dragen voor de catering; koffie/thee, avond eten, ontbijt. De keuken wordt in het
+              bos opgebouwd uit kisten, dus het is flink aanpakken.</li>
+            <li class="list-group-item list-group-item-info"><h4 class="text-center">Groepsbegeleiders:</h4>In 2-tallen ben je verantwoordelijk voor een groep jongeren; zowel tijdens het
+              eten en de activiteiten als het slapen. <br><b>Begeleiders doen actief mee aan de survival!</b></li>
+            <li class="list-group-item list-group-item-info"><h4 class="text-center">EHBO-ers:</h4>Zorg dragen voor de EHBO tijdens het weekend.</li>
+            <li class="list-group-item list-group-item-info"><h4 class="text-center">Fotografen:</h4>Gedurende het weekend foto's maken van alles wat er gebeurt zodat de foto's later op de iste bekeken kunnen worden.
+              <br><b>Tevens willen wij alle vrijwilligers vragen filmpjes te maken van de activiteiten zodat hier later een mooi filmpje van gemaakt kan worden.</b></li>
+            <li class="list-group-item list-group-item-info"><h4 class="text-center">Nachtwakers:</h4> De nacht opblijven zodat de atleten veilig en rustig kunnen slapen.</li>            
+          </ul>
+        </div>
+        <div class="col-md-1"></div>
         
-        <p>Inschrijf formulier deelnemers:<p>
-        <p><a class="btn btn-lg btn-primary" href="#" download>Downloaden</a></p>
-        <p>Inschrijf formulier vrijwilligers:<p>
-        <p><a class="btn btn-lg btn-primary" href="#" download>Downloaden</a></p>
       </div> 
     </div>
 
