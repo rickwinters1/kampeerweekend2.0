@@ -78,14 +78,12 @@
         </div>
 
         <div class="col-md-12">
+          <div class="col-md-3"></div>
           <div class="col-md-6">
             <h4><b>Inschrijf formulier deelnemers:</b><h4>
-            <p><a class="btn btn-lg btn-primary" href="#" download>Downloaden</a></p>
+            <p><a class="btn btn-lg btn-primary" href="FDKW 2016 inschrijfformulier.doc" download>Downloaden</a></p>
           </div>
-          <div class="col-md-6">
-            <h4><b>Inschrijf formulier vrijwilligers:</b><h4>
-            <p><a class="btn btn-lg btn-primary" href="#" download>Downloaden</a></p>
-          </div>
+          <div class="col-md-3"></div>
         </div>
 
         <div class="col-md-1"></div>
@@ -93,17 +91,14 @@
           <br>
           <h2>Uitleg vrijwilligersfuncties:</h2>
           <ul class="list-group">
-            <li class="list-group-item list-group-item-info"><h4 class="text-center">Bouwer:</h4>Als bouwer ben je er zaterdag ochtend vroeg om de tenten op te zetten en het parcours op te bouwen.
-              Ook zul je zorg dragen voor de veilgheid van de atleten tijdens de survival. Je blijft 's nachts in het kamp en gaat zondag nieuwe hindernissen opbouwen.</li>
-            <li class="list-group-item list-group-item-info"><h4 class="text-center">Chauffeur:</h4>Zaterdag atleten en bagage naar de locatie brengen en zondag weer ophalen.</li>
-            <li class="list-group-item list-group-item-info"><h4 class="text-center">Keukenhulp:</h4>Zorg dragen voor de catering; koffie/thee, avond eten, ontbijt. De keuken wordt in het
-              bos opgebouwd uit kisten, dus het is flink aanpakken.</li>
-            <li class="list-group-item list-group-item-info"><h4 class="text-center">Groepsbegeleiders:</h4>In 2-tallen ben je verantwoordelijk voor een groep jongeren; zowel tijdens het
-              eten en de activiteiten als het slapen. <br><b>Begeleiders doen actief mee aan de survival!</b></li>
-            <li class="list-group-item list-group-item-info"><h4 class="text-center">EHBO-ers:</h4>Zorg dragen voor de EHBO tijdens het weekend.</li>
-            <li class="list-group-item list-group-item-info"><h4 class="text-center">Fotografen:</h4>Gedurende het weekend foto's maken van alles wat er gebeurt zodat de foto's later op de site bekeken kunnen worden.
-              <br><b>Tevens willen wij alle vrijwilligers vragen filmpjes te maken van de activiteiten zodat hier later een mooi filmpje van gemaakt kan worden.</b></li>
-            <li class="list-group-item list-group-item-info"><h4 class="text-center">Nachtwakers:</h4> De nacht opblijven zodat de atleten veilig en rustig kunnen slapen.</li>            
+            <li class="list-group-item list-group-item-info"><h4 class="text-center">Bouwer:</h4>De bouwers zetten vrijdagavond de tenten op bij de kampeerlocatie (dit jaar de Camping Abbert in Dronten). Zaterdagochtend vroeg (rond 8.00 uur) worden zij weer bij de Lange adem verwacht om de materialen in te laden, en vertrekken naar de locatie om het survival parcours op te bouwen. Gedurende de dag dragen zij zorg voor de veiligheid van de atleten bij deze onderdelen, en breken deze einde dag weer af. Op zondag bouwen zij het ochtendprogramma op, en breken deze na afloop weer af, alsook de tenten op de kampeerlocatie. De bouwers zijn rond 14.00 a 15.00 uur weer terug in Dronten. Het is natuurlijk ook mogelijk om je voor één van beide dagen op te geven. </li>
+            <li class="list-group-item list-group-item-info"><h4 class="text-center">Chauffeur :</h4>Chauffeurs t.b.v. het vervoer deelnemers brengen zaterdag rond het middaguur de jongste deelnemers en een aantal vrijwilligers, indien mogelijk met een deel van de bagage) naar de kampeerlocatie. Zij halen deze zondag rond het middaguur weer op. Het is natuurlijk ook mogelijk om je voor één van beide dagen op te geven. (exacte tijden worden nog doorgegeven)
+              <br><br>Chauffeurs t.b.v. goederenvervoer vervoeren materialen en bagage vanen naar de kampeerlocatie. Ook horen we graag of u wel bijvoorbeeld een trekhaak maar geen aanhanger, wel een aanhanger maar geen tijd (maar de aanhanger wel beschikbaar stelt) heeft. Het is natuurlijk ook mogelijk om je voor één van beide dagen op te geven.  </li>
+            <li class="list-group-item list-group-item-info"><h4 class="text-center">Keukenhulp:</h4>Keukenhulpen zijn gedurende het hele kamp aanwezig. Zij gaan ’s ochtends mee met de bouwers om de (buiten) keuken op te bouwen, verzorgen koffie, limonade en snacks gedurende de dag, verzorgen in de avond de avondmaaltijd voor deelnemers en vrijwilligers en beginnen vroeg met de voorbereidingen voor het ontbijt. Zeker vlak voor en tijdens de maaltijden is dat flink aanpoten. Gedurende het weekend controleren zij ook de toilet / douche gebouwen en helpen bij de eindschoonmaak hiervan. </li>
+            <li class="list-group-item list-group-item-info"><h4 class="text-center">Groepsbegeleiders:</h4>Groepsbegeleiders zijn in tweetallen verantwoordelijk voor een groep jongeren; zowel tijdens het eten, de activiteiten als het slapen. Zij nemen actief deel aan de survival. En blijven dus ook ’s nachts op het kamp.</b></li>
+            <li class="list-group-item list-group-item-info"><h4 class="text-center">EHBO-ers:</h4>EHBO-ers (spreekt voor zich) zijn ook één dag welkom. Het is prettig als één EHBO-er ’s nachts op het kamp kan blijven. </li>
+            <li class="list-group-item list-group-item-info"><h4 class="text-center">Fotografen:</h4>Fotografen maken gedurende het weekend foto’s van alles wat er gebeurt zodat iedereen die dat wil later nog eens kan terugdenken aan een geslaagd kamp! Ook hiervoor geldt dat het natuurlijk mogelijk is om je voor één van beide dagen op te geven. <br><b>Tevens willen wij alle vrijwilligers vragen filmpjes te maken van de activiteiten zodat hier later een mooi filmpje van gemaakt kan worden.</b></li>
+            <li class="list-group-item list-group-item-info"><h4 class="text-center">Nachtwakers:</h4>Nachtwakers komen in de loop van de avond (eerder mag natuurlijk altijd!) naar de locatie en blijven ’s nachts op zodat de atleten veilig en rustig kunnen slapen. </li>            
           </ul>
         </div>
         <div class="col-md-1"></div>
